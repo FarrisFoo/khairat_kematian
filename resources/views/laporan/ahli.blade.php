@@ -81,6 +81,7 @@
         </div>
     </div>
 
+
     <script>
         const dailyCtx = document.getElementById('dailyChart').getContext('2d');
         const dailyChart = new Chart(dailyCtx, {
