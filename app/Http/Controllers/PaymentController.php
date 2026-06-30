@@ -14,7 +14,6 @@ class PaymentController extends Controller
         return view('payment-methods');
     }
 
-    // app/Http/Controllers/PaymentController.php
 public function storePayment(Request $request)
 {
     $request->validate([
