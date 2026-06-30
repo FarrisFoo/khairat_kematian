@@ -17,6 +17,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
+
 <body class="bg-gray-100">
     <!-- First Layer Navigation -->
     <div class="bg-white py-4 nav-shadow">
