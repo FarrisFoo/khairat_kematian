@@ -25,6 +25,7 @@
         }
     </style>
 </head>
+
 <body class="bg-gray-100">
     <!-- Navigation (same as your template) -->
     <div class="bg-white py-4 nav-shadow">
