@@ -47,7 +47,6 @@ class LaporanController extends Controller
         ->orderBy('year')
         ->get();
 
-
         return view('laporan.ahli', compact('dailyData', 'monthlyData', 'yearlyData'));
     }
 
