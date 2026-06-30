@@ -82,7 +82,6 @@
     </div>
 
     <script>
-        // Daily Chart
         const dailyCtx = document.getElementById('dailyChart').getContext('2d');
         const dailyChart = new Chart(dailyCtx, {
             type: 'line',
