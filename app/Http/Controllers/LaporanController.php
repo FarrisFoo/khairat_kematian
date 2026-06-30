@@ -37,7 +37,6 @@ class LaporanController extends Controller
         ->orderBy('month')
         ->get();
 
-
         // Yearly registration data
         $yearlyData = Member::select(
             DB::raw('YEAR(created_at) as year'),
